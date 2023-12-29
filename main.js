@@ -1,1 +1,1 @@
-console.log("Hello World")
+let main = "main.js" 
